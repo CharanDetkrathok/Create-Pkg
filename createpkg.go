@@ -1,5 +1,5 @@
 // name of package
-package demopkg
+package createpkg
 
 // Stack struct with a field of a slice of items
 type Stack struct {
